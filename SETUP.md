@@ -1,13 +1,38 @@
-# GitHub Profile Setup
+# Kartik Choudhary — GitHub Profile
 
-1. Keep this README in the repository named exactly `kartikchoudharyaktu`.
-2. Replace `YOUR_LINKEDIN_URL` with your real LinkedIn profile URL if that placeholder is present.
-3. Run:
+Repository: `kartikchoudharyaktu/kartikchoudharyaktu`
 
-```bash
-git add README.md
-git commit -m "Create professional GitHub profile"
-git push -u origin main
+## Structure
+
+```text
+kartikchoudharyaktu/
+├── README.md
+├── SETUP.md
+├── assets/
+│   ├── hero.gif
+│   └── README.md
+└── .github/
+    └── workflows/
+        └── snake.yml
 ```
 
-Phone number and followers/following counts are intentionally not included.
+## Publish
+
+From the repository root:
+
+```bash
+git add README.md SETUP.md assets/ .github/
+git commit -m "Upgrade GitHub profile README"
+git push origin main
+```
+
+## Before publishing
+
+1. Replace the generic LinkedIn link with your verified profile.
+2. Add your verified portfolio/resume/email links if desired.
+3. Keep project descriptions synchronized with the actual public repositories.
+4. Never commit passwords, API keys, tokens, `.env` files or other secrets.
+
+## Contribution snake
+
+The included GitHub Action generates contribution-snake assets from GitHub contribution data. Run it manually once from the Actions tab after pushing if you want to generate the first asset immediately.
