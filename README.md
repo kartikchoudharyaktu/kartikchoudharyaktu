@@ -374,6 +374,8 @@ For project details, start with the flagship repositories above or visit the por
 
 ## 🤝 Let's Connect
 
+📧 **Email:** [Kartikmzn7@gmail.com](mailto:Kartikmzn7@gmail.com)
+
 <div align="center">
 
 <a href="https://github.com/kartikchoudharyaktu">
