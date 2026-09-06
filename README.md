@@ -17,16 +17,17 @@
 
 ## 👋 About Me
 
-I'm **Kartik Choudhary**, focused on building reliable software systems and continuously improving my engineering skills.
+I'm **Kartik Choudhary**, focused on building reliable software systems and continuously improving engineering skills.
 
-My interests include:
+My work and interests span:
 
 - 🧩 Backend & API Engineering
-- 🗄️ Databases and data-driven applications
-- 🔐 Secure authentication and authorization
-- 🤖 AI-powered software
-- ☁️ Cloud & deployment
-- 🧪 Testing, reliability and production engineering
+- 🏢 Enterprise Business Systems
+- 🔐 Security & Access Control
+- 🗄️ Data-driven Applications
+- 🤖 AI & Applied Machine Learning
+- ☁️ Cloud & Deployment Engineering
+- 🧪 Testing, Reliability & Production Practices
 
 > **Engineering mindset:** understand → design → build → test → observe → improve.
 
@@ -37,78 +38,154 @@ My interests include:
 | Area | Focus |
 |---|---|
 | 🏗️ Backend | REST APIs, business logic, validation, transactions |
-| 🔐 Security | JWT, RBAC, tenant isolation, secure configuration |
+| 🏢 Enterprise | ERP, finance, banking, HR, supply-chain workflows |
+| 🔐 Security | Authentication, authorization, RBAC, secure configuration |
 | 🗄️ Data | SQL, PostgreSQL, schema design, migrations |
-| 🤖 AI | Forecasting, analytics, AI-assisted application features |
-| 🐳 DevOps | Docker, Nginx, CI/CD, deployment hardening |
+| 🤖 AI / Data | Analytics, forecasting, machine learning applications |
+| 🐳 DevOps | Docker, Nginx, CI/CD, deployment practices |
 | 🧪 Quality | Integration, validation and security testing |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Java` `Python` `SQL` `JavaScript` `C`
+**Languages**
 
-**Backend & APIs**  
+`Java` `Python` `JavaScript` `SQL` `C`
+
+**Backend & APIs**
+
 `Spring Boot` `REST API` `JWT` `RBAC`
 
-**Databases**  
+**Databases**
+
 `PostgreSQL` `SQL` `Flyway`
 
-**Frontend**  
+**Frontend**
+
 `HTML5` `CSS3` `JavaScript` `React`
 
-**AI / Data**  
+**AI / Data**
+
 `Python` `NumPy` `Pandas` `PyTorch`
 
-**DevOps & Tools**  
+**DevOps & Tools**
+
 `Git` `GitHub` `Docker` `Nginx` `Linux` `AWS`
 
 ---
 
-## 🚀 Featured Engineering Work
+## 🚀 Flagship Engineering Work
 
-### 🏢 OneCore — Production-Oriented ERP Platform
+### 🏢 OneCore-BusinessOS
 
-A full-stack, multi-tenant business platform built around real operational workflows.
+Production-oriented enterprise business platform focused on multi-tenant workflows and operational management.
 
-**Engineering highlights**
+**Focus areas:** authentication, RBAC, tenant-aware workflows, inventory, orders, invoicing, expenses, production processes, tax logic, analytics and system reliability.
 
-- 🔐 JWT authentication + refresh-token flow
-- 👥 Role-based access control
-- 🏢 Tenant isolation
-- 🗄️ PostgreSQL + Flyway migrations
-- 📦 Inventory & warehouse operations
-- 🧾 Orders, invoices, expenses and production workflows
-- 🇮🇳 GST/tax business logic
-- 💳 Credit-limit enforcement
-- 🔒 Optimistic locking and data-integrity protections
-- 🗑️ Soft-delete where appropriate
-- 🤖 Analytics / forecasting integration
-- 🐳 Docker + Nginx + TLS
-- 📊 Structured logging and observability
-- 🧪 Integration/security testing
-- 🔍 CI security scanning
-
-> The project is intended to demonstrate **production engineering practices**, not just CRUD screens.
-
-**Repository:**  
-https://github.com/kartikchoudharyaktu
+🔗 **Repository:** https://github.com/kartikchoudharyaktu/OneCore-BusinessOS
 
 ---
 
-### 🧠 Transformer-Based Melanoma Detection
+### 🇮🇳 BHARAT ERP
 
-Deep-learning research project using a Vision Transformer approach for dermoscopic image classification.
+Enterprise resource planning platform covering broad business operations through integrated ERP workflows.
 
-**Focus:** image preprocessing, augmentation, computer vision and deep learning.
+**Focus areas:** enterprise modules, business processes, data management and operational workflows.
+
+🔗 **Repository:** https://github.com/kartikchoudharyaktu/BHARAT-ERP-SOLUTION
 
 ---
 
-### 🌐 Personal Portfolio
+### 🛡️ CyberShieldX
 
-A responsive personal website for presenting projects, skills and professional information.
+Enterprise cybersecurity platform focused on security-oriented application workflows and defensive engineering.
+
+**Focus areas:** authentication, security controls, monitoring-oriented workflows, secure configuration and automated validation.
+
+🔗 **Repository:** https://github.com/kartikchoudharyaktu/CyberShieldX
+
+---
+
+### 🏦 FinCoreX
+
+Enterprise banking platform designed around financial workflows, structured data and service-oriented application architecture.
+
+**Focus areas:** banking operations, financial data workflows, APIs and extensible enterprise architecture.
+
+🔗 **Repository:** https://github.com/kartikchoudharyaktu/FinCoreX
+
+---
+
+### 🚚 SupplyChainX
+
+Enterprise supply-chain management platform covering operational workflows across procurement, inventory and supply-chain processes.
+
+**Focus areas:** supply-chain operations, inventory workflows, business rules and enterprise application structure.
+
+🔗 **Repository:** https://github.com/kartikchoudharyaktu/SupplyChainX
+
+---
+
+### ⚙️ EnterpriseOps Enhanced
+
+Enterprise operations platform demonstrating integrated business workflows, APIs and system-level engineering practices.
+
+**Focus areas:** backend workflows, integrations, API engineering and automated validation.
+
+🔗 **Repository:** https://github.com/kartikchoudharyaktu/EnterpriseOps_Enhanced
+
+---
+
+### 👥 TalentFlow
+
+Talent and workforce management platform focused on structured recruitment and employee-oriented workflows.
+
+**Focus areas:** recruitment workflows, candidate data, business logic and application architecture.
+
+🔗 **Repository:** https://github.com/kartikchoudharyaktu/TalentFlow
+
+---
+
+## 💡 Additional Engineering Projects
+
+| Project | Repository |
+|---|---|
+| 🌐 MicroVision Next Gen ERP | [View Repository](https://github.com/kartikchoudharyaktu/MicroVision-nextgen) |
+| 🇮🇳 BHARAT ERP 2026 | [View Repository](https://github.com/kartikchoudharyaktu/bharat-erp-2026) |
+| 💰 FinCore | [View Repository](https://github.com/kartikchoudharyaktu/FinCore) |
+| 🤖 AI Resume Analyzer Pro | [View Repository](https://github.com/kartikchoudharyaktu/resume-analyzer) |
+| 🎨 Dockhand Marketing Site | [View Repository](https://github.com/kartikchoudharyaktu/dockhand-marketing-site) |
+| 🏢 OneCore | [View Repository](https://github.com/kartikchoudharyaktu/OneCore) |
+| 🧩 OneCore Nexus | [View Repository](https://github.com/kartikchoudharyaktu/onecore-nexus) |
+| 🌐 Personal Portfolio | [View Repository](https://github.com/kartikchoudharyaktu/Portfoliok) |
+
+---
+
+## 📚 Complete Repository Directory
+
+All current repositories are organized below for quick access.
+
+| # | Repository | Purpose |
+|---:|---|---|
+| 1 | [bharat-erp-2026](https://github.com/kartikchoudharyaktu/bharat-erp-2026) | ERP platform |
+| 2 | [BHARAT-ERP-SOLUTION](https://github.com/kartikchoudharyaktu/BHARAT-ERP-SOLUTION) | Enterprise ERP |
+| 3 | [CyberShieldX](https://github.com/kartikchoudharyaktu/CyberShieldX) | Cybersecurity platform |
+| 4 | [dockhand-marketing-site](https://github.com/kartikchoudharyaktu/dockhand-marketing-site) | Marketing website |
+| 5 | [EnterpriseOps_Enhanced](https://github.com/kartikchoudharyaktu/EnterpriseOps_Enhanced) | Enterprise operations |
+| 6 | [FinCore](https://github.com/kartikchoudharyaktu/FinCore) | Financial platform |
+| 7 | [FinCoreX](https://github.com/kartikchoudharyaktu/FinCoreX) | Banking platform |
+| 8 | [kartik-choudharyaktu](https://github.com/kartikchoudharyaktu/kartik-choudharyaktu) | GitHub-related project |
+| 9 | [kartikchoudharyaktu](https://github.com/kartikchoudharyaktu/kartikchoudharyaktu) | GitHub profile |
+| 10 | [MicroVision-nextgen](https://github.com/kartikchoudharyaktu/MicroVision-nextgen) | Next-generation ERP |
+| 11 | [OneCore](https://github.com/kartikchoudharyaktu/OneCore) | Enterprise platform |
+| 12 | [OneCore-BusinessOS](https://github.com/kartikchoudharyaktu/OneCore-BusinessOS) | Business operations platform |
+| 13 | [onecore-nexus](https://github.com/kartikchoudharyaktu/onecore-nexus) | OneCore ecosystem project |
+| 14 | [Portfoliok](https://github.com/kartikchoudharyaktu/Portfoliok) | Personal portfolio |
+| 15 | [register](https://github.com/kartikchoudharyaktu/register) | is-a.dev registration service repository |
+| 16 | [resume-analyzer](https://github.com/kartikchoudharyaktu/resume-analyzer) | AI resume analysis |
+| 17 | [SupplyChainX](https://github.com/kartikchoudharyaktu/SupplyChainX) | Supply-chain platform |
+| 18 | [TalentFlow](https://github.com/kartikchoudharyaktu/TalentFlow) | Talent management platform |
 
 ---
 
@@ -118,7 +195,7 @@ A responsive personal website for presenting projects, skills and professional i
 
 <img src="https://github-readme-stats.vercel.app/api?username=kartikchoudharyaktu&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikchoudharyaktu&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikchoudharyaktu&layout=compact&hide_border=true&theme=transparent" height="165" alt="GitHub languages"/>
 
 <br/>
 
@@ -126,42 +203,34 @@ A responsive personal website for presenting projects, skills and professional i
 
 </div>
 
-> Statistics above are generated from GitHub activity rather than manually claimed.
-
----
-
-## 🐍 Contribution Animation
-
-The repository includes a GitHub Actions workflow for generating a contribution-snake asset from actual GitHub contribution data.
-
-Once the workflow has run, the generated asset can be embedded here:
-
-```md
-![Contribution Snake](./assets/github-contribution-snake.svg)
-```
+> Statistics are generated from GitHub activity rather than manually claimed.
 
 ---
 
 ## 🎯 Currently Improving
 
 - Advanced backend architecture
-- Secure production deployments
+- Secure application design
 - Cloud-native engineering
 - Testing and observability
 - AI integration with real application data
-- Clean and maintainable system design
+- Maintainable enterprise system design
+- Scalable business workflows
 
 ---
 
 ## 📚 Engineering Principles
 
 ```text
-Readable code > clever code
-Real data   > dummy data
-Tests       > assumptions
-Security    > convenience
-Observability > guesswork
-Simple architecture > unnecessary complexity
+Readable code        > clever code
+Real workflows       > empty screens
+Real data            > dummy data
+Tests                > assumptions
+Security             > convenience
+Observability        > guesswork
+Documentation        > ambiguity
+Maintainability      > unnecessary complexity
+Honest scope         > exaggerated claims
 ```
 
 ---
@@ -174,8 +243,7 @@ Simple architecture > unnecessary complexity
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<!-- Replace these with your verified personal links before publishing. -->
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/kartik-choudharyaktu">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
